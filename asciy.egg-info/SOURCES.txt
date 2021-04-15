@@ -1,0 +1,9 @@
+README.md
+setup.py
+asciy/__init__.py
+asciy/__main__.py
+asciy.egg-info/PKG-INFO
+asciy.egg-info/SOURCES.txt
+asciy.egg-info/dependency_links.txt
+asciy.egg-info/entry_points.txt
+asciy.egg-info/top_level.txt

@@ -1,0 +1,3 @@
+[console_scripts]
+asciy = asciy.__main__:main
+
